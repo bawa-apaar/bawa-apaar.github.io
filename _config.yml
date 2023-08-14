@@ -95,25 +95,25 @@ analytics:
 author:
   name             : "Apaar Bawa"
   avatar           : "/images/apaarbawa.jpeg"
-  bio              : "Assistant Professor, Department of CSEE, University of Maryland Baltimore County"
-  location         : "Maryland, US"
+  bio              : "MS Data Science and Analytics student, Department of Computer Science, Georgia State University"
+  location         : "Atlanta, GA, USA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:manas@umbc.edu
+      url: mailto:abawa2@student.gsu.edu
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/manasgaur/"
+      url: "https://www.linkedin.com/in/apaar-bawa-909a84127/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/manasgaur90"
+      url: "https://twitter.com/apaar_in"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/kiml2020/"
+      # url: "https://www.facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/manasgaur"
+      url: "https://github.com/bawa-apaar"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
