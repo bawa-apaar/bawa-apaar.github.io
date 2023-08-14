@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:abawa2@student.gsu.edu
     - label: "LinkedIn"
-      # icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/apaar-bawa-909a84127/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -118,14 +118,11 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-linkedin"
 
 # Reading Files
 include:
