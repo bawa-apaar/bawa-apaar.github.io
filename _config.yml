@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Manas Gaur"
+  name             : "Apaar Bawa"
   avatar           : "/images/apaar.jpeg"
   bio              : "MS Data Science and Analytics, Department of Computer Science, Georgia State University"
   location         : "Atlanta, GA, US"
@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:abawa2@student.gsu.edu
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fas fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/apaar-bawa-909a84127/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
