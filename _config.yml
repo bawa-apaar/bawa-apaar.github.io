@@ -71,6 +71,8 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               :
+facebook:
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -92,23 +94,29 @@ analytics:
 # Site Author
 author:
   name             : "Apaar Bawa"
-  avatar           : "/images/apaar.jpeg"
-  bio              : "MS Data Science and Analytics, Department of Computer Science, Georgia State University"
-  location         : "Atlanta, GA, US"
+  avatar           : "/images/apaarbawa.jpeg"
+  bio              : "Assistant Professor, Department of CSEE, University of Maryland Baltimore County"
+  location         : "Maryland, US"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:abawa2@student.gsu.edu
+      url: mailto:manas@umbc.edu
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/apaar-bawa-909a84127/"
+      url: "https://www.linkedin.com/in/manasgaur/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/apaar_in"
+      url: "https://twitter.com/manasgaur90"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/kiml2020/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bawa-apaar"
+      url: "https://github.com/manasgaur"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -116,11 +124,22 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
 
 # Reading Files
 include:
