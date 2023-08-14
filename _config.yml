@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Apaar Bawaa"
+  name             : "Apaar Bawa"
   avatar           : "/images/apaar.jpeg"
   bio              : "MS Data Science and Analytics, Department of Computer Science, Georgia State University"
   location         : "Atlanta, GA, US"
@@ -109,14 +109,14 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/apaar_in"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      # icon: "fab fa-fw fa-github"
       url: "https://github.com/bawa-apaar"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
-      # icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
