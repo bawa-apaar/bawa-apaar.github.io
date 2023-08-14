@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:manas@umbc.edu
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-linkedin-square"
       url: "https://www.linkedin.com/in/manasgaur/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
