@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Apaar Bawa"
   avatar           : "/images/apaarbawa.jpeg"
-  bio              : "MS Data Science and Analytics <br> Researcher at SWAN AI lab <br> Georgia State University"
+  bio              : "MS Data Science and Analytics, Researcher at SWAN AI lab <br> Georgia State University"
   location         : "Atlanta, GA, USA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:abawa2@student.gsu.edu
+      url: mailto:bawa.apaar@gmail.com
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/apaar-bawa-909a84127/"
