@@ -103,13 +103,13 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:abawa2@student.gsu.edu
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      # icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/apaar-bawa-909a84127/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/apaar_in"
     - label: "GitHub"
-      # icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/bawa-apaar"
 
 # Site Footer
