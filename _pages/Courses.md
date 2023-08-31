@@ -19,7 +19,7 @@ author_profile: true
 | CSC-6850: Machine Learning             |        A+        |
 | CSC-6780: Fundamentals of Data Science |        A+        |
 | CSC-6710: Database Systems             |        A+        |
-| CSC-8902: Ethics of Data Science       |       S          |
+| CSC-8902: Ethics of Data Science       |         S        |
 
 
 S: Satisfactory participation
