@@ -14,12 +14,12 @@ author_profile: true
 * CSC-8902: Ethics of Data Science           Grade: S
 
 
-|              **Course Name**           | **Grade Score**    |
-|----------------------------------------|:------------------:|
-| CSC-6850: Machine Learning             |        `A+`        |
-| CSC-6780: Fundamentals of Data Science |        `A+`        |
-| CSC-6710: Database Systems             |        `A+`        |
-| CSC-8902: Ethics of Data Science       |         `S`        |
+|<span style="font-size: larger">**Course Name**</span>>                        | **Grade Score**    |
+|-------------------------------------------------------------------------------|:------------------:|
+|<span style="font-size: larger">CSC-6850: Machine Learning</span>              |        `A+`        |
+|<span style="font-size: larger">CSC-6780: Fundamentals of Data Science</span>  |        `A+`        |
+|<span style="font-size: larger">CSC-6710: Database Systems</span>              |        `A+`        |
+|<span style="font-size: larger">CSC-8902: Ethics of Data Science</span>        |         `S`        |
 
 
 S: Satisfactory participation
