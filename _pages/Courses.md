@@ -1,6 +1,5 @@
 ---
-title: "Data Science and Analytics"
-subtitle: "Concentration: Big Data and Machine Learning"
+title: "[Curriculum](https://catalogs.gsu.edu/preview_program.php?catoid=26&poid=7725&returnto=3360)"
 permalink: /Courses/
 author_profile: true
 ---
