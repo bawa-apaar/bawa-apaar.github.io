@@ -1,5 +1,6 @@
 ---
-title: "Introduction To Machine Learning"
+# Data Science and Analytics
+## Concentration: Big Data and Machine Learning
 permalink: /Courses/
 author_profile: true
 ---
