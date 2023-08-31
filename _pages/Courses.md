@@ -19,10 +19,10 @@ yooo
 
 |<span style="font-size: larger">**Course Name**</span>                         |<span style="font-size: larger">**Grade Score**</span>    |
 |-------------------------------------------------------------------------------|--------------------|
-|<span style="font-size: larger">CSC-6850: Machine Learning</span>              |        `A+`        |
-|<span style="font-size: larger">CSC-6780: Fundamentals of Data Science</span>  |        `A+`        |
-|<span style="font-size: larger">CSC-6710: Database Systems</span>              |        `A+`        |
-|<span style="font-size: larger">CSC-8902: Ethics of Data Science</span>        |         `S`        |
+|<span style="font-size: larger">CSC-6850: Machine Learning</span>              |<span style="font-size: larger">`A+`</span>    |
+|<span style="font-size: larger">CSC-6780: Fundamentals of Data Science</span>  |<span style="font-size: larger">`A+`</span>    |
+|<span style="font-size: larger">CSC-6710: Database Systems</span>              |<span style="font-size: larger">`A+`</span>    |
+|<span style="font-size: larger">CSC-8902: Ethics of Data Science</span>        |<span style="font-size: larger">`S`</span>    |
 
 
 
