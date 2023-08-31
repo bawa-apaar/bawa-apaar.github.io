@@ -4,27 +4,22 @@ permalink: /Courses/
 author_profile: true
 ---
 
-## Fall 2023  
-| <span style="font-size: larger">**Course Name**</span>                      | <span style="font-size: larger">**Grade Score**</span> |
-|----------------------------------------------------------------------------|:-------------------------------------------------:|
-| <span style="font-size: larger">CSC-8851: Deep Learning</span>           | <span style="font-size: larger">`-`</span>       |
-| <span style="font-size: larger">STAT-8561: Linear Statistical Analysis I</span>| <span style="font-size: larger">`-`</span>       |
-| <span style="font-size: larger">STAT-8670: Computational Methods in Statistics</span>           | <span style="font-size: larger">`-`</span>       |
-
-## Spring 2023
-| <span style="font-size: larger">**Course Name**</span>                      | <span style="font-size: larger">**Grade Score**</span> |
-|----------------------------------------------------------------------------|:-------------------------------------------------:|
-| <span style="font-size: larger">CSC-8850: Advanced Machine Learning</span>           | <span style="font-size: larger">`A`</span>       |
-| <span style="font-size: larger">CSC-6740: Data Mining</span>| <span style="font-size: larger">`A`</span>       |
+## Fall 2022
+[CMSC-678: Introduction to Machine Learning](https://manasgaur.github.io/CMSC-678/)
 
 ## Fall 2022  
-| <span style="font-size: larger">**Course Name**</span>                      | <span style="font-size: larger">**Grade Score**</span> |
-|----------------------------------------------------------------------------|:-------------------------------------------------:|
-| <span style="font-size: larger">CSC-6850: Machine Learning</span>           | <span style="font-size: larger">`A+`</span>       |
-| <span style="font-size: larger">CSC-6780: Fundamentals of Data Science</span>| <span style="font-size: larger">`A+`</span>       |
-| <span style="font-size: larger">CSC-6710: Database Systems</span>           | <span style="font-size: larger">`A+`</span>       |
-| <span style="font-size: larger">CSC-8902: Ethics of Data Science</span>     | <span style="font-size: larger">`S`</span>        |
+* CSC-6850: Machine Learning                 Grade: A+  
+* CSC-6780: Fundamentals of Data Science     Grade: A+  
+* CSC-6710: Database Systems                 Grade: A+  
+* CSC-8902: Ethics of Data Science           Grade: S
 
+
+|              **Course Name**           | **Grade Score**    |
+|----------------------------------------|:------------------:|
+| CSC-6850: Machine Learning             |        `A+`        |
+| CSC-6780: Fundamentals of Data Science |        `A+`        |
+| CSC-6710: Database Systems             |        `A+`        |
+| CSC-8902: Ethics of Data Science       |         `S`        |
 
 
 S: Satisfactory participation
