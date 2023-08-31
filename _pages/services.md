@@ -4,18 +4,21 @@ permalink: /services/
 author_profile: true
 ---
 
+I am not a professional photographer (though I certainly believe so...). Enjoy some of my clicks 📷 
+
 ## Landscape Photography
 
 <div class="image-grid">
   <div class="image-item">
     <img src="/images/photography/horseshoe_bend.jpeg" alt="Image 1">
+    <span class="tooltip">Location 1</span>
   </div>
-  <div class="image-item">
-    <img src="/images/photography/south_beach.jpeg" alt="Image 2">
+  <div class="/images/photography/south_beach.jpeg">
+    <img src="path/to/image2.jpg" alt="Image 2">
+    <span class="tooltip">Location 2</span>
   </div>
   <!-- Add more image items -->
 </div>
-
 
 <style>
   .image-grid {
@@ -25,7 +28,7 @@ author_profile: true
   }
 
   .image-item {
-    border: 1px solid #ddd;
+    position: relative;
     padding: 10px;
     text-align: center;
   }
@@ -33,5 +36,23 @@ author_profile: true
   .image-item img {
     max-width: 100%;
     height: auto;
+  }
+
+  .tooltip {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: none;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 14px;
+    z-index: 1;
+  }
+
+  .image-item:hover .tooltip {
+    display: block;
   }
 </style>
