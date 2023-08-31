@@ -18,7 +18,7 @@ author_profile: true
 yooo
 
 |<span style="font-size: larger">**Course Name**</span>                         |<span style="font-size: larger">**Grade Score**</span>    |
-|-------------------------------------------------------------------------------|--------------------|
+|-------------------------------------------------------------------------------|:--------------------:|
 |<span style="font-size: larger">CSC-6850: Machine Learning</span>              |<span style="font-size: larger">`A+`</span>    |
 |<span style="font-size: larger">CSC-6780: Fundamentals of Data Science</span>  |<span style="font-size: larger">`A+`</span>    |
 |<span style="font-size: larger">CSC-6710: Database Systems</span>              |<span style="font-size: larger">`A+`</span>    |
