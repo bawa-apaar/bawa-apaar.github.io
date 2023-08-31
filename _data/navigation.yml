@@ -2,18 +2,20 @@
 main:
   - title: "Awards"
     url: /awards/
-  - title: "Internships"
+  - title: "Work Experience"
     url: /internships/
   - title: "Publications"
     url: /publications/
-  - title: "Resources"
+  - title: "Projects"
     url: /resources/
-  - title: "Talks"
-    url: /talks/
-  - title: "Services"
-    url: /services/
   - title: "Courses"
     url: /Courses/
+  # - title: "Services"
+  #   url: /services/
+  # - title: "Talks"
+  # url: /talks/
+  # - title: "Team"
+  #   url: /mentorship/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
