@@ -1,5 +1,5 @@
 ---
-title: "[Curriculum](https://catalogs.gsu.edu/preview_program.php?catoid=26&poid=7725&returnto=3360)"
+title: "<a href='https://example.com' target='_blank'>Big Data and Machine Learning Curriculum</a>"
 permalink: /Courses/
 author_profile: true
 ---
