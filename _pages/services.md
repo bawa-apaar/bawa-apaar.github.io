@@ -4,8 +4,6 @@ permalink: /services/
 author_profile: true
 ---
 
-# My Photography Collection
-
 ## Landscape Photography
 
 ![Landscape 1](/images/photography/horseshoe_bend.jpeg)
