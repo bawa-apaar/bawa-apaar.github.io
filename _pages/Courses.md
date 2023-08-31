@@ -4,6 +4,13 @@ permalink: /Courses/
 author_profile: true
 ---
 
+## Fall 2023  
+| <span style="font-size: larger">**Course Name**</span>                      | <span style="font-size: larger">**Grade Score**</span> |
+|----------------------------------------------------------------------------|:-------------------------------------------------:|
+| <span style="font-size: larger">CSC-8851: Deep Learning</span>           | <span style="font-size: larger">`-`</span>       |
+| <span style="font-size: larger">STAT-8561: Linear Statistical Analysis I</span>| <span style="font-size: larger">`-`</span>       |
+| <span style="font-size: larger">STAT-8670: Computational Methods in Statistics</span>           | <span style="font-size: larger">`-`</span>       |
+
 ## Spring 2023
 | <span style="font-size: larger">**Course Name**</span>                      | <span style="font-size: larger">**Grade Score**</span> |
 |----------------------------------------------------------------------------|:-------------------------------------------------:|
