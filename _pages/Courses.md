@@ -1,6 +1,5 @@
 ---
-# Data Science and Analytics
-## Concentration: Big Data and Machine Learning
+title: "Data Science and Analytics"
 permalink: /Courses/
 author_profile: true
 ---
