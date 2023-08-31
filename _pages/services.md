@@ -6,6 +6,32 @@ author_profile: true
 
 ## Landscape Photography
 
-![Landscape 1](/images/photography/horseshoe_bend.jpeg)
-![Landscape 2](/images/photography/south_beach.jpeg)
-<!-- Add more images -->
+<div class="image-grid">
+  <div class="image-item">
+    <img src="/images/photography/horseshoe_bend.jpeg" alt="Image 1">
+  </div>
+  <div class="image-item">
+    <img src="/images/photography/south_beach.jpeg" alt="Image 2">
+  </div>
+  <!-- Add more image items -->
+</div>
+
+
+<style>
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+  }
+
+  .image-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .image-item img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
