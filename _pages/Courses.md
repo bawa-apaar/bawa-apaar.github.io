@@ -15,7 +15,7 @@ author_profile: true
 
 
 |              **Course Name**           | **Grade Score** |
-|:--------------------------------------:|----------------:|
+|----------------------------------------|----------------:|
 | CSC-6850: Machine Learning             |              A+ |
 | CSC-6780: Fundamentals of Data Science |              A+ |
 | CSC-6710: Database Systems             |              A+ |
