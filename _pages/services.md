@@ -11,11 +11,11 @@ I am not a professional photographer (though I certainly believe so...). Enjoy s
 <div class="image-grid">
   <div class="image-item">
     <img src="/images/photography/horseshoe_bend.jpeg" alt="Image 1">
-    <span class="tooltip">Location 1</span>
+    <span class="tooltip">Horseshoe Bend, Arizona</span>
   </div>
   <div class="/images/photography/south_beach.jpeg">
     <img src="path/to/image2.jpg" alt="Image 2">
-    <span class="tooltip">Location 2</span>
+    <span class="tooltip">South Beach, Miami</span>
   </div>
   <!-- Add more image items -->
 </div>
