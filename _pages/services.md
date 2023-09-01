@@ -4,7 +4,7 @@ permalink: /services/
 author_profile: true
 ---
 
-When you show someone a photograph you're really proud of and they say "cool" and change the subject 🗿 
+Not a professional photographer but I try to be one. Enjoy some of my clicks 📷
 
 ## Landscape Photography
 
