@@ -11,18 +11,24 @@ Not a professional photographer but I try to be one. Enjoy some of my clicks ðŸ“
 <div class="image-grid">
   <div class="image-item">
     <img src="/images/photography/horseshoe_bend.jpeg" alt="Landscape 1">
-    <span class="tooltip">Location 1</span>
+
+
+----
+<div class="image-grid">
+  <div class="image-item">
+    <img class="landscape" src="/images/photography/horseshoe_bend.jpeg" alt="Landscape 1">
+    <span class="tooltip">horseshoe_bend</span>
   </div>
   <div class="image-item">
-    <img src="/images/photography/living_root.jpeg" alt="Portrait 1">
+    <img class="portrait" src="/images/photography/living_root.jpeg" alt="Portrait 1">
     <span class="tooltip">Location 2</span>
   </div>
   <div class="image-item">
-    <img src="/images/photography/south_beach.jpeg" alt="Landscape 2">
+    <img class="landscape" src="/images/photography/south_beach.jpeg" alt="Landscape 2">
     <span class="tooltip">Location 3</span>
   </div>
   <div class="image-item">
-    <img src="/images/photography/howrah.jpeg" alt="Portrait 2">
+    <img class="portrait" src="/images/photography/howrah.jpeg" alt="Portrait 2">
     <span class="tooltip">Location 4</span>
   </div>
   <!-- Add more image items -->
@@ -37,13 +43,15 @@ Not a professional photographer but I try to be one. Enjoy some of my clicks ðŸ“
 
   .image-item {
     position: relative;
-    padding: 0; /* Remove padding to eliminate spacing */
     text-align: center;
-    border: none; /* Remove border */
+    border: none;
   }
 
-  .image-item img {
+  .landscape,
+  .portrait {
     max-width: 100%;
+    max-height: 100%;
+    width: auto;
     height: auto;
   }
 
