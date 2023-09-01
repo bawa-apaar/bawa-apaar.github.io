@@ -8,19 +8,19 @@ Not a professional photographer but I try to be one. Enjoy some of my clicks ðŸ“
 
 <div class="image-grid">
   <div class="image-item">
-    <img class="landscape" src="/images/photography/horseshoe_bend.jpeg" alt="Landscape 1">
+    <img class="landscape" src="/images/photography/pic1.jpeg" alt="Landscape 1">
     <span class="tooltip">Location 1</span>
   </div>
   <div class="image-item">
-    <img class="landscape" src="/images/photography/south_beach.jpeg" alt="Landscape 2">
+    <img class="landscape" src="/images/photography/pic2.jpeg" alt="Landscape 2">
     <span class="tooltip">Location 3</span>
   </div>
   <div class="image-item">
-    <img class="portrait" src="/images/photography/living_root.jpeg" alt="Portrait 1">
+    <img class="portrait" src="/images/photography/pic3.jpeg" alt="Portrait 1">
     <span class="tooltip">Location 2</span>
   </div>
   <div class="image-item">
-    <img class="portrait" src="/images/photography/howrah.jpeg" alt="Portrait 2">
+    <img class="portrait" src="/images/photography/pic4.jpeg" alt="Portrait 2">
     <span class="tooltip">Location 4</span>
   </div>
   <!-- Add more image items -->
