@@ -16,7 +16,7 @@ Not a professional photographer but I try to be one. Enjoy some of my clicks ðŸ“
     <span class="tooltip">Location 3</span>
   </div>
   <div class="image-item">
-    <img class="landscape" src="/images/photography/pic4.jpeg" alt="Portrait 1">
+    <img class="landscape" src="/images/photography/pic3.jpeg" alt="Portrait 1">
     <span class="tooltip">Location 2</span>
   </div>
   <div class="image-item">
