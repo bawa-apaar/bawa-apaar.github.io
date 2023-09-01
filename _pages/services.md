@@ -6,26 +6,18 @@ author_profile: true
 
 Not a professional photographer but I try to be one. Enjoy some of my clicks ðŸ“·
 
-## Landscape Photography
-
-<div class="image-grid">
-  <div class="image-item">
-    <img src="/images/photography/horseshoe_bend.jpeg" alt="Landscape 1">
-
-
-----
 <div class="image-grid">
   <div class="image-item">
     <img class="landscape" src="/images/photography/horseshoe_bend.jpeg" alt="Landscape 1">
-    <span class="tooltip">horseshoe_bend</span>
-  </div>
-  <div class="image-item">
-    <img class="portrait" src="/images/photography/living_root.jpeg" alt="Portrait 1">
-    <span class="tooltip">Location 2</span>
+    <span class="tooltip">Location 1</span>
   </div>
   <div class="image-item">
     <img class="landscape" src="/images/photography/south_beach.jpeg" alt="Landscape 2">
     <span class="tooltip">Location 3</span>
+  </div>
+  <div class="image-item">
+    <img class="portrait" src="/images/photography/living_root.jpeg" alt="Portrait 1">
+    <span class="tooltip">Location 2</span>
   </div>
   <div class="image-item">
     <img class="portrait" src="/images/photography/howrah.jpeg" alt="Portrait 2">
@@ -45,6 +37,8 @@ Not a professional photographer but I try to be one. Enjoy some of my clicks ðŸ“
     position: relative;
     text-align: center;
     border: none;
+    overflow: hidden; /* Prevent images from overflowing grid items */
+    max-height: 250px; /* Set a fixed height for all grid items */
   }
 
   .landscape,
