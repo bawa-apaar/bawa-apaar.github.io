@@ -10,20 +10,20 @@ Not a professional photographer but I try to be one. Enjoy some of my clicks ðŸ“
 
 <div class="image-grid">
   <div class="image-item">
-    <img src="/images/photography/horseshoe_bend.jpeg" alt="Image 1">
-    <span class="tooltip">Horseshoe Bend, Arizona, US</span>
+    <img src="/images/photography/horseshoe_bend.jpeg" alt="Landscape 1">
+    <span class="tooltip">Location 1</span>
   </div>
   <div class="image-item">
-    <img src="/images/photography/south_beach.jpeg" alt="Image 2">
-    <span class="tooltip">South Beach, Florida, US</span>
+    <img src="/images/photography/living_root.jpeg" alt="Portrait 1">
+    <span class="tooltip">Location 2</span>
   </div>
   <div class="image-item">
-    <img src="/images/photography/howrah.jpg" alt="Image 3">
-    <span class="tooltip">Howrah Bridge, Kolkata, India</span>
+    <img src="/images/photography/south_beach.jpeg" alt="Landscape 2">
+    <span class="tooltip">Location 3</span>
   </div>
   <div class="image-item">
-    <img src="/images/photography/living_root.jpeg" alt="Image 4">
-    <span class="tooltip">Living root bridge, Meghalya, India</span>
+    <img src="/images/photography/howrah.jpeg" alt="Portrait 2">
+    <span class="tooltip">Location 4</span>
   </div>
   <!-- Add more image items -->
 </div>
@@ -37,8 +37,9 @@ Not a professional photographer but I try to be one. Enjoy some of my clicks ðŸ“
 
   .image-item {
     position: relative;
-    padding: 10px;
+    padding: 0; /* Remove padding to eliminate spacing */
     text-align: center;
+    border: none; /* Remove border */
   }
 
   .image-item img {
