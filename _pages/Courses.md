@@ -8,13 +8,13 @@ author_profile: true
 
 |<span style="font-size: larger">**Course Name**</span>                         |<span style="font-size: larger">**Grade Score**</span>    |
 |-------------------------------------------------------------------------------|:--------------------:|
-|<span style="font-size: larger">CSC-8851: Big Data Programming</span>              |<span style="font-size: larger">`-`</span>    |
+|<span style="font-size: larger">CSC-6760: Big Data Programming</span>              |<span style="font-size: larger">`-`</span>    |
 
 ## Fall 2023
 
 |<span style="font-size: larger">**Course Name**</span>                         |<span style="font-size: larger">**Grade Score**</span>    |
 |-------------------------------------------------------------------------------|:--------------------:|
-|<span style="font-size: larger">CSC-8851: Deep Learning</span>              |<span style="font-size: larger">`A`</span>    |
+|<span style="font-size: larger">CSC-8851: Deep Learning</span>                        |<span style="font-size: larger">`A`</span>    |
 |<span style="font-size: larger">STAT-8561: Linear Statistical Analysis I</span>       |<span style="font-size: larger">`A+`</span>    |
 |<span style="font-size: larger">STAT-8670: Computational Methods in Statistics</span> |<span style="font-size: larger">`A+`</span>    |
 
