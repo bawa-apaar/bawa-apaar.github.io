@@ -8,8 +8,8 @@ main:
     url: /resources/
   - title: "Courses"
     url: /Courses/
-  - title: "Photography"
-    url: /services/
+  # - title: "Photography"
+  #   url: /services/
   # - title: "Talks"
   # url: /talks/
   # - title: "Team"
