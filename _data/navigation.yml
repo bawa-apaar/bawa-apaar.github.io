@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Work Experience"
-    url: /internships/
+    url: /experience/
   - title: "Publications"
     url: /publications/
   - title: "Projects"
-    url: /resources/
+    url: /projects/
   - title: "Courses"
     url: /Courses/
   # - title: "Photography"
