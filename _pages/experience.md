@@ -1,6 +1,6 @@
 ---
 title: "Experience"
-permalink: /internships/
+permalink: /experiences/
 author_profile: true
 ---
 
