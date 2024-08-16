@@ -1,5 +1,5 @@
 ---
-title: "<a href='https://catalogs.gsu.edu/preview_program.php?catoid=26&poid=7725&returnto=3360' target='_blank'>Big Data and Machine Learning Concentration - Curriculum</a>"
+title: "<a href='https://catalogs.gsu.edu/preview_program.php?catoid=26&poid=7725&returnto=3360' target='_blank'>MS Data Science @ Georgia State University</a>"
 permalink: /Courses/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 
 |<span style="font-size: larger">**Course Name**</span>                         |<span style="font-size: larger">**Grade Score**</span>    |
 |-------------------------------------------------------------------------------|:--------------------:|
-|<span style="font-size: larger">CSC-6760: Big Data Programming</span>              |<span style="font-size: larger">`-`</span>    |
+|<span style="font-size: larger">CSC-6760: Big Data Programming</span>              |<span style="font-size: larger">`A+`</span>    |
 
 ## Fall 2023
 
