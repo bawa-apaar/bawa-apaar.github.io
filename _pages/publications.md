@@ -12,7 +12,7 @@ author_profile: true
 <br>&emsp; *Under Review*  
 
 * [A dataset of manually annotated filaments from H-alpha observations](https://www.nature.com/articles/s41597-024-03876-y)
-<br>&emsp; Azim Ahmadzadeh, Petrus C Martens, Alexei Pevtsov, Luca Bertello, Apaar Bawa, et al. 
+<br>&emsp; Azim Ahmadzadeh, Petrus C Martens, Alexei Pevtsov, Apaar Bawa, et al. 
 <br>&emsp; *Nature Scientific Data 2024*
 
 <!-- * , et al., The Adaptive Strategies of Anti-Kremlin Digital Dissent in Telegram during the Russian Invasion of Ukraine. *https://arxiv.org/abs/2408.07135* *[currently under review: Nature's Communications]*
