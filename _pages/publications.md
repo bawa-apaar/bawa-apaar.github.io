@@ -3,7 +3,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* **Apaar Bawa**, Ugur Kursuncu, Dilshod Achilov, Valerie Shalin, et al., The Adaptive Strategies of Anti-Kremlin Digital Dissent in Telegram during the Russian Invasion of Ukraine. *https://arxiv.org/abs/2408.07135* *[currently under review: Nature's Communications]*
+* [Telegram as a battlefield: Kremlin-related communications during the russia-ukraine conflict](https://ojs.aaai.org/index.php/ICWSM/article/view/35939)
+  * Apaar Bawa, Ugur Kursuncu, Dilshod Achilov, Valerie Shalin
+  * Proceedings of the International AAAI Conference on Web and Social Media (ICWSM) 2025
+
+* , et al., The Adaptive Strategies of Anti-Kremlin Digital Dissent in Telegram during the Russian Invasion of Ukraine. *https://arxiv.org/abs/2408.07135* *[currently under review: Nature's Communications]*
   * Poster was presented at South NLP Symposium 2024 *([Link](https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-39.pdf))*
 
 * Azim Ahmadzadeh, **Apaar Bawa** et al., MAGFiLO: Manually Annotated GONG Filaments in 2 H-Alpha Observations. *[currently under review: Nature's Scientific Data]* 
