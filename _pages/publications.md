@@ -5,7 +5,7 @@ author_profile: true
 ---
 * [Telegram as a battlefield: Kremlin-related communications during the russia-ukraine conflict](https://ojs.aaai.org/index.php/ICWSM/article/view/35939)
 <br>&emsp; Apaar Bawa, Ugur Kursuncu, Dilshod Achilov, Valerie Shalin
-<br>&emsp; *Proceedings of the International AAAI Conference on Web and Social Media (ICWSM) 2025*
+<br>&emsp; *Proceedings of the International AAAI Conference on Web and Social Media (ICWSM) 2025* 
 
 * , et al., The Adaptive Strategies of Anti-Kremlin Digital Dissent in Telegram during the Russian Invasion of Ukraine. *https://arxiv.org/abs/2408.07135* *[currently under review: Nature's Communications]*
   * Poster was presented at South NLP Symposium 2024 *([Link](https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-39.pdf))*
