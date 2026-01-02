@@ -12,8 +12,15 @@ author_profile: true
 <br>&emsp; *Under Review*  
 
 * [A dataset of manually annotated filaments from H-alpha observations](https://www.nature.com/articles/s41597-024-03876-y)
-<br>&emsp; Azim Ahmadzadeh, Petrus C Martens, Alexei Pevtsov, Apaar Bawa, et al. 
-<br>&emsp; *Nature Scientific Data 2024*
+<div style="margin-left: 2em;">
+  Azim Ahmadzadeh, Rohan Adhyapak, Kartik Chaurasiya, Laxmi Alekhya Nagubandi, V Aparna, Petrus C Martens, Alexei Pevtsov, Luca Bertello, Alexander Pevtsov, Naomi Douglas, Samuel McDonald, **Apaar Bawa**, Eugene Kang, Riley Wu, Dustin J Kempton, Aya Abdelkarem, Patrick M Copeland, Sri Harsha Seelamneni
+  <br>
+  *Nature Scientific Data 2024*
+</div>
+
+<!-- * [A dataset of manually annotated filaments from H-alpha observations](https://www.nature.com/articles/s41597-024-03876-y)
+<br>&emsp; Azim Ahmadzadeh, Rohan Adhyapak, Kartik Chaurasiya, Laxmi Alekhya Nagubandi, V Aparna, Petrus C Martens, Alexei Pevtsov, Luca Bertello, Alexander Pevtsov, Naomi Douglas, Samuel McDonald, Apaar Bawa, Eugene Kang, Riley Wu, Dustin J Kempton, Aya Abdelkarem, Patrick M Copeland, Sri Harsha Seelamneni
+<br>&emsp; *Nature Scientific Data 2024* -->
 
 <!-- * , et al., The Adaptive Strategies of Anti-Kremlin Digital Dissent in Telegram during the Russian Invasion of Ukraine. *https://arxiv.org/abs/2408.07135* *[currently under review: Nature's Communications]*
   * Poster was presented at South NLP Symposium 2024 *([Link](https://southnlp.github.io/southnlp2024/presentations/southnlp2024-poster-39.pdf))*
