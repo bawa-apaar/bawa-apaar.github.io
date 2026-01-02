@@ -12,7 +12,7 @@ author_profile: true
 2. Research Assistant, Institute of Insight
     * Period: Jan 2023 - current
     <!-- * Project: A Longitudinal Analysis of Offline and Online Indicators from Russian Opposition Telegram Channels -->
-    * Mentor: [Dr. Ugur Kursuncu](https://www.ugurkursuncu.com/){:target="_blank"}
+    * Mentor: [Dr. Ugur Kursuncu](https://www.ugurkursuncu.com/){:target="_blank"}, [Dr. Valarie L. Shalin](https://scholar.google.com/citations?user=trFx5GIAAAAJ&hl=en){:target="_blank"}, [Dr. Dilshod Achilov](https://www.umassd.edu/directory/dachilov/){:target="_blank"}
     * Location: Atlanta, GA, USA
 
 3. Data Science Intern, Truist Financial Bank
