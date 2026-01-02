@@ -5,12 +5,12 @@ author_profile: true
 ---
 
 1. Applied Scientist, Sling TV
-    * Period: Jan 2023 - current
+    * Period: September 2023 - Current
     * Mentor: [Vineet Parsai](https://www.linkedin.com/in/vineetparsai/){:target="_blank"}
     * Location: Denver, CO, USA
 
 2. Research Assistant, Institute of Insight
-    * Period: Jan 2023 - current
+    * Period: January 2023 - July 2024
     <!-- * Project: A Longitudinal Analysis of Offline and Online Indicators from Russian Opposition Telegram Channels -->
     * Mentor: [Dr. Ugur Kursuncu](https://www.ugurkursuncu.com/){:target="_blank"}, [Dr. Valarie L. Shalin](https://scholar.google.com/citations?user=trFx5GIAAAAJ&hl=en){:target="_blank"}, [Dr. Dilshod Achilov](https://www.umassd.edu/directory/dachilov/){:target="_blank"}
     * Location: Atlanta, GA, USA
