@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 1. Applied Scientist, Sling TV
-    * Period: September 2023 - Current
+    * Period: September 2024 - Current
     * Mentor: [Vineet Parsai](https://www.linkedin.com/in/vineetparsai/){:target="_blank"}
     * Location: Denver, CO, USA
 
