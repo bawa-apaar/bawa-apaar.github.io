@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 * [Telegram as a battlefield: Kremlin-related communications during the russia-ukraine conflict](https://ojs.aaai.org/index.php/ICWSM/article/view/35939)
-<br>&emsp; Apaar Bawa, Ugur Kursuncu, Dilshod Achilov, Valerie L. Shalin
+<br>&emsp; Apaar Bawa, Ugur Kursuncu, Dilshod Achilov, Valerie L. Shalin, Nitin Agarwal, Esra Akbas
 <br>&emsp; *AAAI Conference on Web and Social Media (ICWSM) 2025*
 
 * [The Adaptive Strategies of Anti-kremlin Digital Dissent in Telegram during the Russian Invasion of Ukraine](https://arxiv.org/abs/2408.07135)
